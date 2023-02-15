@@ -1,0 +1,14 @@
+reg
+    corporate
+        teacher
+            another skills or courses(corporate teacher data base)
+        student
+            another skills or courses(corporate student data base)
+                based on age different types of courses on cp-cirucular and extra circular activities
+    individual
+        parent
+            individual parent data base
+        child
+            individual student data base
+                based on age different types of courses
+                    based on age different types of courses on cp-cirucular and extra circular activities
